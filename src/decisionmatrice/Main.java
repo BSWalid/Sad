@@ -18,6 +18,8 @@ public class Main {
                 String imadechange;
                 String modification;
                 
+                String Walid; 
+                
         }
     
 }

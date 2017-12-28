@@ -5,7 +5,6 @@
  */
 package decisionmatrice;
 
-import static com.sun.xml.internal.fastinfoset.alphabet.BuiltInRestrictedAlphabets.table;
 import java.awt.Color;
 import javax.swing.JLabel;
 import javax.swing.table.DefaultTableModel;
