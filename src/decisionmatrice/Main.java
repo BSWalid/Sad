@@ -19,6 +19,7 @@ public class Main {
                 String modification;
                 
                 String Walid; 
+                String Walid2;
                 
         }
     
