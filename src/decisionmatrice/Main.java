@@ -15,6 +15,7 @@ public class Main {
         {
                 loginOrRegistration l = new loginOrRegistration();
                 l.setVisible(true);
+                String imadechange;
                 
         }
     
